@@ -1,10 +1,14 @@
 # installation
-linux *git clone https://github.com/williamaerus/python-choices*
+Linux 
+`git clone https://github.com/williamaerus/python-choices`
 
-windows *unzip the file and run from terminal*
+windows `unzip the file and run from terminal`
+# get started 
+Linux
+`python3 [filename]`
 
-# python-choices
-this are some simple codes that you can use to make python do choices for you 
+Windows 
+`python [filename]
 
 
-le versioni dei codici con la possibilità di scegliere le lingue sono in arrivo 
+Then just follow the instructions that the file will show 
