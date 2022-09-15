@@ -8,7 +8,7 @@ Linux
 `python3 [filename]`
 
 Windows 
-`python [filename]
+`python [filename]`
 
 
 Then just follow the instructions that the file will show 
